@@ -1,7 +1,7 @@
 # 🐰 Kailane Brito 
-**´Desenvolvedora `**
+**`Desenvolvedora`**
 
-🎒Estudante SENAi - DS 
+🎒Estudante SENAI - DS 
 <br/>
 🎯Estudando Java
 
@@ -62,6 +62,9 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+<br/>
+<br/>
+
 ### 🤖 Estastísticas
 
 
@@ -80,7 +83,10 @@
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=BTROO&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-<br/>
+
+
+
+  
 
           
 <picture align="center">
