@@ -65,6 +65,7 @@
 <br/>
 <br/>
 
+---
 ### 🤖 Estastísticas
 
 
@@ -84,6 +85,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=BTROO&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+<br/>
 
 
   
